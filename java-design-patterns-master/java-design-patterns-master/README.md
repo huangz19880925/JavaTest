@@ -21,7 +21,7 @@ Reusing design patterns help prevent subtle issues which cause major
 problems, and it also improves code readability for coders and architects who
 are familiar with the patterns.
 
-# Getting started
+# Getting started-HZTEST20190826
 
 Before you dive into the material, you should be familiar with various
 Programming/Software Design Principles.
